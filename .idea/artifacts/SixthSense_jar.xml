@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SixthSense:jar">
+    <output-path>$USER_HOME$/Desktop/Dev/server/plugins</output-path>
+    <root id="archive" name="SixthSense.jar">
+      <element id="module-output" name="SixthSense" />
+    </root>
+  </artifact>
+</component>
